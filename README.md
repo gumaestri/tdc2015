@@ -1,2 +1,4 @@
 # tdc2015
-Slides da plalestra Hands on para (web)Developers Docker vs Vagrant
+Hands on para (web)Developers Docker vs Vagrant
+
+Palestra do TDC 2015 apresentada por Gustavo Maestri e Ingo Gerhard, na trilha Web
